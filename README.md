@@ -1,1 +1,1 @@
-# trexColor
+# TrexColor
